@@ -1,0 +1,7 @@
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\obj\x86\Debug\ToDoApp.Properties.Resources.resources
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\obj\x86\Debug\ToDoApp.ToDoListForm.resources
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\obj\x86\Debug\ToDoApp.csproj.GenerateResource.Cache
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\obj\x86\Debug\ToDoApp.exe
+J:\4th year 2nd term\visual_programming\practical_visual\ToDoApp\ToDoApp\obj\x86\Debug\ToDoApp.pdb
